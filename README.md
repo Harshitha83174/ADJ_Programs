@@ -41,3 +41,5 @@
 [program_3c_7 o/p_link]->(https://github.com/Harshitha83174/ADJ_Programs/blob/main/Screenshot%202025-05-18%20222939.png)
 
 [program_3c_8 o/p_link]->(https://github.com/Harshitha83174/ADJ_Programs/blob/main/Screenshot%202025-05-18%20223400.png)
+
+[program_3c_9 o/p_link]->(https://github.com/Harshitha83174/ADJ_Programs/blob/main/Screenshot%202025-05-18%20224008.png)
