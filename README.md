@@ -12,3 +12,4 @@
 
 [program_1c_1 o/p_link]->(https://github.com/Harshitha83174/ADJ_Programs/blob/main/Screenshot%202025-05-18%20210113.png)
 
+[program_1c_2 o/p_link]->(https://github.com/Harshitha83174/ADJ_Programs/blob/main/Screenshot%202025-05-18%20211747.png)
